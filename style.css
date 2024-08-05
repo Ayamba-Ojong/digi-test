@@ -1,0 +1,20 @@
+h3 {
+    font-size: 2rem;
+}
+p > input{
+    color: blue;
+    border: none;
+}
+.header {
+    opacity: 0.3;
+}
+* {
+    outline: 1px solid blue;
+}
+input {
+    background-color: grey;
+
+}
+[name="lname"] {
+    background-color: cadetblue;
+}
